@@ -11,3 +11,9 @@ __pycache__/
 
 # folders
 backup/
+
+# log
+logs*/
+train*/
+err.log
+out.log
